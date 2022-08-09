@@ -1,0 +1,11 @@
+C:\Users\Manoel\source\repos\Viagem\Viagem\bin\Debug\Viagem.exe.config
+C:\Users\Manoel\source\repos\Viagem\Viagem\bin\Debug\Viagem.exe
+C:\Users\Manoel\source\repos\Viagem\Viagem\bin\Debug\Viagem.pdb
+C:\Users\Manoel\source\repos\Viagem\Viagem\obj\Debug\Viagem.csproj.AssemblyReference.cache
+C:\Users\Manoel\source\repos\Viagem\Viagem\obj\Debug\Viagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manoel\source\repos\Viagem\Viagem\obj\Debug\Viagem.FrmPrincipal.resources
+C:\Users\Manoel\source\repos\Viagem\Viagem\obj\Debug\Viagem.Properties.Resources.resources
+C:\Users\Manoel\source\repos\Viagem\Viagem\obj\Debug\Viagem.csproj.GenerateResource.cache
+C:\Users\Manoel\source\repos\Viagem\Viagem\obj\Debug\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\source\repos\Viagem\Viagem\obj\Debug\Viagem.exe
+C:\Users\Manoel\source\repos\Viagem\Viagem\obj\Debug\Viagem.pdb
